@@ -3,9 +3,9 @@
 This app is a recipe tracker application based on Mackenzie Child's excellent rails tutorial series: https://mackenziechild.me/12-in-12/3/
 
 The app features include:
-
-– Users
-– Posts (Recipes)
-– Nested Forms
-– Image Uploading
-– HAML
+    
+    – Users
+    – Posts (Recipes)
+    – Nested Forms
+    – Image Uploading
+    – HAML
